@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/<OWNER>/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 ## Description
 This a Capstone project to apply many of the technologies and concepts I learned in the preceding courses to build and deliver a fully functional Customer Accounts microservice.
 
